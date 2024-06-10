@@ -37,17 +37,22 @@ const perguntas = [
         ]
     },
     {
-        enunciado: " Como você se sente sobre ambientes ensolarados?",
+        enunciado: " Como você se sente sobre o verão?",
 
         alternativas: [
             {
-                texto: "Adoro, pois me ajuda a crescer.",
+                texto: "Não sou fã.",
                 afirmacao: "sem texto."
             },
             {
-                texto: "Prefiro ambientes mais sombreados.",
+                texto: "Não fede, nem cheira.",
+                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+            },
+            {
+                texto: "Odeio, prefiro frio.",
                 afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
             }
+            
         ]
     },
     {
