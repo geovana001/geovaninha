@@ -10,15 +10,15 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Verde",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                afirmacao: "Você é uma ervilha comum. "
             },
             {
                 texto: "Amarelo",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmacao: "Você é uma ervilha que gosta de se destacar."
             },
             {
                 texto: "Laranja",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmacao: "Você é uma ervilha?."
             }
         
         ]
@@ -27,12 +27,16 @@ const perguntas = [
         enunciado: ". O que você prefere fazer em seu tempo livre?",
         alternativas: [
             {
-                texto: " Crescer em uma vagem. ",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: " Em meu tempo livre, costumo praticar meu brilho natural. Afinal, você tem que manter esse amarelo vibrante em dia. ",
+                afirmacao: "Acha que o mundo gira ao seu redor? você não é o último bombomzin não."
             },
             {
-                texto: "Ficar enterrado na terra",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Adoro relaxar sob o sol, absorvendo todos os nutrientes que ele tem para oferecer. É como uma festa de fotosíntese!",
+                afirmacao: "Você é bem humlide e descontraida, amei!."
+            },
+            {
+                texto: "Honestamente, meu tempo livre é um pouco entediante. Às vezes, fico apenas contemplando a vida vegetal. Não é emocionante, mas alguém tem que fazer isso.",
+                afirmacao: "Você é muito chata e entediante, mas alguém te que ser assim né."
             }
         ]
     },
@@ -60,15 +64,15 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Gosto de crescer em grupo e compartilhar nutrientes.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                afirmacao: "Sua conecxão com os outros é saudavel e harmoniosa, você é muito brother."
             },
             {
                 texto: "Prefiro crescer sozinho, sem competição.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                afirmacao: "Mesmo você sendo uma emo excluida, vocễ reconhece a libertade e apresença das outras."
             },
             {
                 texto: "Não me importo com outras plantas ao meu redor.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                afirmacao: "Você é distante e se acha superior em relação as outras plantas, por iso ninguém gosta de você."
             }
         ]
     },
@@ -77,15 +81,15 @@ const perguntas = [
         alternativas: [
             {
                 texto: " Tentaria conversar com ela para descobrir por que está tão animada.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                afirmacao: "Se alguém te chamar e fofoqueira, diga que você apenas relata fatos."
             },
             {
                 texto: "Julgaria e continuaria com minhas atividades.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                afirmacao: "Melhorar um pouco pras pessoas gotarem de você não é uma escolha ruim. "
             },
             {
                 texto: "Correria na direção oposta, pois seria muito estranho",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                afirmacao: "Felicidade alheia te incomoda, suas atitudes são compreensiveis, mas melhore. "
             }
         ]
     },
