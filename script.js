@@ -18,7 +18,7 @@ const perguntas = [
             },
             {
                 texto: "Laranja",
-                afirmacao: "Você é uma ervilha?."
+                afirmacao: "Laranja?."
             }
         
         ]
@@ -32,7 +32,7 @@ const perguntas = [
             },
             {
                 texto: "Adoro relaxar sob o sol, absorvendo todos os nutrientes que ele tem para oferecer. É como uma festa de fotosíntese!",
-                afirmacao: "Você é bem humlide e descontraida, amei!."
+                afirmacao: "Você é bem humlide e descontraida, amei!"
             },
             {
                 texto: "Honestamente, meu tempo livre é um pouco entediante. Às vezes, fico apenas contemplando a vida vegetal. Não é emocionante, mas alguém tem que fazer isso.",
@@ -41,20 +41,19 @@ const perguntas = [
         ]
     },
     {
-        enunciado: " Como você se sente sobre o verão?",
-
+        enunciado: " Se você fosse uma celebridade na horta, quem você seria?",
         alternativas: [
             {
-                texto: "Não sou fã.",
-                afirmacao: "sem texto."
+                texto: "Serena Williams",
+                afirmacao: "Quem é Serena Williams, nega?"
             },
             {
-                texto: "Não fede, nem cheira.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Beyoncé",
+                afirmacao: "Tu jurou que é parecida com a Beyoncé."
             },
             {
-                texto: "Odeio, prefiro frio.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Elon Musk",
+                afirmacao: "Elon Musck? esperva mais."
             }
             
         ]
@@ -128,7 +127,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Ervilha...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
