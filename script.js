@@ -32,7 +32,7 @@ const perguntas = [
             },
             {
                 texto: "Adoro relaxar sob o sol, absorvendo todos os nutrientes que ele tem para oferecer. É como uma festa de fotosíntese!",
-                afirmacao: "Você é bem humlide e descontraida, amei!"
+                afirmacao: "Você é bem humilde e descontraida, amei!"
             },
             {
                 texto: "Honestamente, meu tempo livre é um pouco entediante. Às vezes, fico apenas contemplando a vida vegetal. Não é emocionante, mas alguém tem que fazer isso.",
